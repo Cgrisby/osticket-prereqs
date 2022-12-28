@@ -39,7 +39,7 @@ Go to portal.azure.com and make a subscription. Create a resource group and virt
 <img src="https://i.imgur.com/Dkn89DR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Using MacOS download Microsoft Remote Desktop and go to "Add PC"> Use the Public IP address from your Virtual Machine in Azure to name and connect your remote desktop.
+Using MacOS download Microsoft Remote Desktop and go to "Add PC". Use the Public IP address from your Virtual Machine in Azure to name and connect your remote desktop.
 </p>
 <br />
 
@@ -47,6 +47,6 @@ Using MacOS download Microsoft Remote Desktop and go to "Add PC"> Use the Public
 <img src="https://i.imgur.com/g7412kc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+During the installation process for osTicket, open IIS and stop/ start the server. Enable PHP Manager extensions and refresh the osTicket browser to observe the changes. 
 </p>
 <br />

@@ -19,11 +19,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Computer with Internet Connection
-- Microsoft Azure Subscription
-- Virtual Machine
-- Microsoft Desktop
-- osTicket
+- Create a Microsoft Azure Subscription and Virtual Machine
+- Install Microsoft Desktop for Mac OS
+- Enable Internet Information Services (IIS)
+- Install Web Platform Installer
+- Configure Permissions & Install osTicket
 
 
 <h2>Installation Steps</h2>

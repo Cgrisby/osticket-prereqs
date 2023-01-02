@@ -117,4 +117,12 @@ If the program was properly installed, you will see this prerequesite screen. If
 Enable the following extenions, php_imap.dll, php_intl.dll, and php_opcache. Please refresh the osTicket site and oberve the changes.
 </p>
 <br />                                                                                       
-                                                                                        
+                                               
+<p>
+<img src="https://i.imgur.com/o6CgugC.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Go to C:-->inetpub-->wwwroot-->osTicket-->include and right-click the ost-sampleconfig.php file and rename it to ost-config.php
+</p>
+<br />                                                 
+                                               

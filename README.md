@@ -58,14 +58,6 @@ Install or enable IIS by opening the control panel. IIS will will enable a web s
 <br />
 
 <p>
-<img src="https://i.imgur.com/XaLyA5I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Once IIS has been installed, search the internet for Microsoft Web Platform Installer and download this extension. You will need it to install the remaining software needed to install osTicket.
-</p>
-<br />
-
-<p>
 <img src="https://i.imgur.com/i8PWjfk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
@@ -77,3 +69,12 @@ Once IIS has been installed, search the internet for Microsoft Web Platform Inst
 Search the web and install: "Web Platform Installer" & open "Web Platform Installer". In the dialog box, search Web Platform Installer to add "MySQL 5.5" & search to add all simple versions of (x86) PHP up until 7.3.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/zGzDaHG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Web installer will attempt to finish installing all of the prerequistes that are checked (some of the downloads will fail, just manually download C++ redistribuable & PHP Manager via files found online). Continue to finish with installation. Find and install "PHP Manager" version 7.3.8 & version 1.5.0.
+</p>
+<br />
+

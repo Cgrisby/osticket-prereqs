@@ -23,7 +23,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install Microsoft Desktop for Mac OS
 - Enable Internet Information Services (IIS)
 - Install Web Platform Installer
-- Configure Permissions & Install osTicket
+- Add MySQL 5.5
+- Add all simple versions of x86 PHP up to v7.3
+- Configure Permissions & Install osTicket v1.15.8
+- Reload IIS (Open IIS, Stop and Start the server)
+- Enable extensions in IIS
+- Refresh the osTicket site in your browser and observe the changes
 
 
 <h2>Installation Steps</h2>
@@ -48,6 +53,6 @@ Using MacOS download Microsoft Remote Desktop and go to "Add PC". Use the Public
 <img src="https://i.imgur.com/g7412kc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-During the installation process for osTicket, open IIS and stop/ start the server. Enable PHP Manager extensions and refresh the osTicket browser to observe the changes. 
+Install or enable IIS by opening the control panel. IIS will will enable a web server on your computer to run osTicket from the web. You can do this by typing "control panel" from your search bar within your task bar at the bottom of your desktop. Enable PHP Manager extensions and refresh the osTicket browser to observe the changes. 
 </p>
 <br />

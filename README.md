@@ -69,12 +69,10 @@ Once IIS has been installed, search the internet for Microsoft Web Platform Inst
 <img src="[https://i.imgur.com/XaLyA5I.png](https://i.imgur.com/m60BraL.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
 <p>
 <img src="https://i.imgur.com/f87Ja2o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
 <p>
 Search the web and install: "Web Platform Installer" & open "Web Platform Installer". In the dialog box, search Web Platform Installer to add "MySQL 5.5" & search to add all simple versions of (x86) PHP up until 7.3.
 </p>

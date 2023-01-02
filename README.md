@@ -58,9 +58,9 @@ Install or enable IIS by opening the control panel. IIS will will enable a web s
 <br />
 
 <p>
-<img src="[https://i.imgur.com/Dkn89DR.png](https://imgur.com/ZP4uu9O)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ZP4uu9O" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Using MacOS download Microsoft Remote Desktop and go to "Add PC". Use the Public IP address from your Virtual Machine in Azure to name and connect your remote desktop.
+Once IIS has been installed, search the internet for Microsoft Web Platform Installer and download this extension. You will need it to install the remaining software needed to install osTicket.
 </p>
 <br />

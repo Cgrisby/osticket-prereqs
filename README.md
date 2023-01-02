@@ -142,5 +142,16 @@ Download and install HeidiSQL for osTicket to have a client database that connec
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/m3x8NEE.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To create a database, you will need the username and password that was used to install MySQL. Create a new database by right-clicking on SSS-->New-->Database-->> name your database osTicket and click Ok.
+</p>
+<br />
+                                                                                        
+                                                                                        
+                                                                                        
 
+                                                                                        
 

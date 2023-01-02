@@ -86,5 +86,11 @@ Install Microsoft Visual C++ and PHP Manager. Installation errors should be fixe
 </p>
 <br />
 
-
+<p>
+<img src="https://i.imgur.com/jB5NeB0.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once osTicket has been installed, open the download folder and copy it into your wwwroot folder that was created from IIS and rename the folder from upload to osTicket. filepath ThisPC/Windows (C:)/inetpub/wwwroot
+</p>
+<br />
 

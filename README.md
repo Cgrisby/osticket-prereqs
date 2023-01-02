@@ -94,3 +94,11 @@ Once osTicket has been installed, open the download folder and copy it into your
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/b256sAE.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Go to -->Taskbar-->Type IIS in the searchbar and open the program-->You will need to restart the web server by selecting the browse 80 folder in the connections folder. -->Sites-->osTicket-->browse80-->stop-->restart
+</p>
+<br />
+                                                                                        

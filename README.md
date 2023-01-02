@@ -58,7 +58,7 @@ Install or enable IIS by opening the control panel. IIS will will enable a web s
 <br />
 
 <p>
-<img src="blob:https://imgur.com/8901fe91-47de-4b4d-af94-ea90ed007acd" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XaLyA5I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once IIS has been installed, search the internet for Microsoft Web Platform Installer and download this extension. You will need it to install the remaining software needed to install osTicket.

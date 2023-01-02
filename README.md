@@ -158,6 +158,14 @@ Go to your osTicket installer in your browser tab and fill out the following inf
 </p>
 <br />                                                                                        
                                                                                         
-
+<p>
+<img src="https://i.imgur.com/BdQGjvg.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This screen will show a successful installation of osTicket
+</p>
+<br /> 
                                                                                         
+
+
 

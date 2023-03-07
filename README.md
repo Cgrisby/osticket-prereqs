@@ -50,7 +50,7 @@ Using MacOS download Microsoft Remote Desktop and go to "Add PC". Use the Public
 <br />
 
 <p>
-<img src="https://i.imgur.com/g7412kc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/S1p4Kt4.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install or enable IIS by opening the control panel. IIS will will enable a web server on your computer to run osTicket from the web. You can do this by typing "control panel" from your search bar within your task bar at the bottom of your desktop. Enable PHP Manager extensions and refresh the osTicket browser to observe the changes. 

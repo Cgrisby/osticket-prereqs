@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/BZGPthK" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/BZGPthK"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to portal.azure.com and make a subscription. Create a resource group and virtual machine.

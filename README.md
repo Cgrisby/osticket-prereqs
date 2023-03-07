@@ -67,7 +67,7 @@ Install or enable IIS by opening the control panel. IIS will enable a web server
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/f87Ja2o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PR2aDfS.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>

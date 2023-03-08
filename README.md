@@ -67,7 +67,7 @@ Install or enable IIS by opening the control panel. IIS will enable a web server
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/PR2aDfS.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bpvqQUV.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
@@ -76,7 +76,7 @@ Search the web and install: "Web Platform Installer" & open "Web Platform Instal
 <br />
 
 <p>
-<img src="https://i.imgur.com/zGzDaHG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aE4Rp7k.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Web installer will attempt to finish installing all of the prerequistes that are checked (some of the downloads will fail, just manually download C++ redistribuable & PHP Manager via files found online). Continue to finish with installation. Find and install "PHP Manager" version 7.3.8 & version 1.5.0.
@@ -164,7 +164,7 @@ Go to your osTicket installer in your browser tab and fill out the following inf
 <br />                                                                                        
                                                                                         
 <p>
-<img src="https://i.imgur.com/BdQGjvg.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rScwuIc.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This screen will show a successful installation of osTicket

@@ -116,7 +116,7 @@ If the program was properly installed, you will see this prerequesite screen. If
 <br />
 
 <p>
-<img src="https://i.imgur.com/KqJumLf.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ztIFxix.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Enable the following extenions, php_imap.dll, php_intl.dll, and php_opcache. Please refresh the osTicket site and oberve the changes.

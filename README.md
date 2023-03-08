@@ -180,7 +180,7 @@ Lastly, we will clean up some files during installation to prevent future perfor
 <br /> 
 
 <p>
-<img src="https://i.imgur.com/ivJtdUI.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yOqksNm.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to C:-->Inetpub-->wwwroot-->osTicket-->inlclude and right click on ost-config.php and select securities tab-->advanced-->click edit to change permissions for everyone to only have read & execute by deselecting the radio buttons. Click on apply-->Ok

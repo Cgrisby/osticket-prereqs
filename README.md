@@ -154,15 +154,7 @@ Download and install HeidiSQL for osTicket to have a client database that connec
 To create a database, you will need the username and password that was used to install MySQL. Create a new database by right-clicking on SSS-->New-->Database-->> name your database osTicket and click Ok.
 </p>
 <br />
-                                                                                        
-<p>
-<img src="https://i.imgur.com/oEODK6z.png"80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Go to your osTicket installer in your browser tab and fill out the following information in the fields. --> System Settings-->Admin User-->Database Settings--> Click on "Install Now"
-</p>
-<br />                                                                                        
-                                                                                        
+                                                                                                                                                                                                                                 
 <p>
 <img src="https://i.imgur.com/rScwuIc.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -170,6 +162,14 @@ Go to your osTicket installer in your browser tab and fill out the following inf
 This screen will show a successful installation of osTicket
 </p>
 <br /> 
+
+<p>
+<img src="https://i.imgur.com/oEODK6z.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Go to your osTicket installer in your browser tab and fill out the following information in the fields. --> System Settings-->Admin User-->Database Settings--> Click on "Install Now"
+</p>
+<br />                                   
                                                                                         
 <p>
 <img src="https://i.imgur.com/feYId5Y.png"80%" width="80%" alt="Disk Sanitization Steps"/>

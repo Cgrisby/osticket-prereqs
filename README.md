@@ -156,7 +156,7 @@ To create a database, you will need the username and password that was used to i
 <br />
                                                                                         
 <p>
-<img src="https://i.imgur.com/yPLDcqP.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oEODK6z.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to your osTicket installer in your browser tab and fill out the following information in the fields. --> System Settings-->Admin User-->Database Settings--> Click on "Install Now"

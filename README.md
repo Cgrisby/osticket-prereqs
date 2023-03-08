@@ -140,7 +140,7 @@ Enable automatic permissions for everyone in this file by right-clicking on the 
 <br />
                                                                                         
 <p>
-<img src="https://i.imgur.com/Vci5OV7.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0Vdb71L.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and install HeidiSQL for osTicket to have a client database that connects to MySQL that was installed previously.

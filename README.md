@@ -132,7 +132,7 @@ Go to C:-->inetpub-->wwwroot-->osTicket-->include and right-click the ost-sample
 <br />                                                 
                                                
 <p>
-<img src="https://i.imgur.com/Q3SIcBn.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9mEAlau.png"80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Enable automatic permissions for everyone in this file by right-clicking on the file and select -->Properties-->Advanced-->Disable inheritance-->type everyone in the next dialog box-->selct the Full Access radio button-->Select the Apply button-->Select the Ok button

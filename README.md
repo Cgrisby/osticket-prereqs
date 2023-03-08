@@ -124,7 +124,7 @@ Enable the following extenions, php_imap.dll, php_intl.dll, and php_opcache. Ple
 <br />                                                                                       
                                                
 <p>
-<img src="https://i.imgur.com/o6CgugC.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uqF9ShW.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to C:-->inetpub-->wwwroot-->osTicket-->include and right-click the ost-sampleconfig.php file and rename it to ost-config.php

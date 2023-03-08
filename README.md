@@ -108,7 +108,7 @@ Go to -->Taskbar-->Type IIS in the searchbar and open the program-->You will nee
 <br />
                                                                                         
 <p>
-<img src="https://i.imgur.com/J0gLMkd.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PthkIoj.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 If the program was properly installed, you will see this prerequesite screen. If not, please go back and install the missing php, C++, or php manager. We will now enable extensions.

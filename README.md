@@ -84,7 +84,7 @@ Web installer will attempt to finish installing all of the prerequistes that are
 <br />
 
 <p>
-<img src="https://i.imgur.com/JOMLIss.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2sjwhso.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install Microsoft Visual C++ and PHP Manager. Installation errors should be fixed at this point. Download and install the osTicket software. You will need to extract the zip file once downloaded.

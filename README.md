@@ -172,7 +172,7 @@ This screen will show a successful installation of osTicket
 <br /> 
                                                                                         
 <p>
-<img src="https://i.imgur.com/iloV0Ab.png"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/feYId5Y.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lastly, we will clean up some files during installation to prevent future performance issues with osTicket. Go to your C:-->inetpub-->wwwroog-->osTicket and delete the setup file
